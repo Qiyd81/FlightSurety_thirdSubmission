@@ -1,0 +1,12 @@
+{
+	"localhost": {
+		"url": "ws://localhost:7545",
+		"dataAddress": "0xd55Bda76055eF9AaE8BEB54fa8D4eCE56aeC70eb",
+		"appAddress": "0x8564e1BC4CDa008dbDac018CD0100d1c4e932b7f",
+		"firstAirline": "0x1b5E17ce522D584512b1DbCe26baaf090D5294fF",
+		"oracleInitialIndex": 11,
+		"oracleLasIndex": 30,
+		"gas": 4700000,
+		"gasPrice": 8000000000
+	}
+}
